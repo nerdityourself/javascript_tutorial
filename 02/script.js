@@ -11,7 +11,7 @@ var color = "blue";
 
 function changeColor()
 {
-    color = "green";
+    color = "red";
     document.querySelector("#first-p").style.color = color;
 }
 
